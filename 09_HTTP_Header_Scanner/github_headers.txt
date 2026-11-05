@@ -1,0 +1,12 @@
+HTTP Security Header Audit Report
+Target URL: https://github.com/
+Status Code: 200
+--------------------------------------------------
+[MISSING] Strict-Transport_Security(Purpose: Enforces secure (HTTPS) connections to the server.)
+[MISSING] Content-Security_Policy(Purpose: Mitigates XSS and data injection attacks by restricting resource loading)
+[MISSING] X-Frame_Options(Purpose: Protects against Clickjacking by controlling if the site can be framed.)
+FOUND: X-Content-Type-Options -> nosniff
+FOUND: X-XSS-Protection -> 0
+FOUND: Referrer-Policy -> origin-when-cross-origin, strict-origin-when-cross-origin
+--------------------------------------------------
+Summary: 3/6 recommended security headers present.

@@ -1,0 +1,2 @@
+[2026-10-30 15:16:32] Connection from 127.0.0.1:54508:2222
+       Payload: b'USER root\r\n'

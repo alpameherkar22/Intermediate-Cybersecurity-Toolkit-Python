@@ -1,0 +1,8 @@
+# Cryptographic keys and certificates
+*.pem
+*.crt
+*.key
+
+# Windows system files
+desktop.ini
+Thumbs.db

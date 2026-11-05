@@ -1,0 +1,6 @@
+# Directory scan results for http://127.0.0.1:8000
+# Scan completed at 2026-10-29 20:51:29
+
+[200] http://127.0.0.1:8000/robots.txt
+[301] http://127.0.0.1:8000/admin
+[200] http://127.0.0.1:8000/secret.html
